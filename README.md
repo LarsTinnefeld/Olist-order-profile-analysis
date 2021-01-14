@@ -23,3 +23,5 @@ In detail, the analysis is firstly investigating correlations in the order data 
 - What is the general business trend?
 - How dynamic is the operation and are there extreme events which impact logistic process?
 - What does the prediction say about the business in two years?
+
+
